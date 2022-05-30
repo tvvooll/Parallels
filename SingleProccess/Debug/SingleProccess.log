@@ -1,0 +1,3 @@
+﻿  SingleProccess.cpp
+C:\Users\Surface\source\repos\MatrixMultiply\SingleProccess\SingleProccess.cpp(43,38): warning C4244: 'initializing': conversion from '__int64' to 'unsigned int', possible loss of data
+  SingleProccess.vcxproj -> C:\Users\Surface\source\repos\MatrixMultiply\Debug\SingleProccess.exe

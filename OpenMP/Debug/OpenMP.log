@@ -1,0 +1,3 @@
+﻿  OpenMP.cpp
+C:\Users\Surface\source\repos\MatrixMultiply\OpenMP\OpenMP.cpp(21,26): warning C4244: 'initializing': conversion from 'num' to 'unsigned int', possible loss of data
+  OpenMP.vcxproj -> C:\Users\Surface\source\repos\MatrixMultiply\Debug\OpenMP.exe

@@ -1,0 +1,5 @@
+﻿  MPI.cpp
+C:\Users\Surface\source\repos\MatrixMultiply\MPI\MPI.cpp(20,26): warning C4244: 'initializing': conversion from 'num' to 'unsigned int', possible loss of data
+C:\Users\Surface\source\repos\MatrixMultiply\MPI\MPI.cpp(49,25): warning C4244: 'initializing': conversion from 'num' to 'unsigned int', possible loss of data
+C:\Users\Surface\source\repos\MatrixMultiply\MPI\MPI.cpp(52,22): warning C4244: 'argument': conversion from 'num' to 'int', possible loss of data
+  MPI.vcxproj -> C:\Users\Surface\source\repos\MatrixMultiply\Debug\MPI.exe
